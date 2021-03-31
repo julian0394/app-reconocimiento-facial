@@ -1,0 +1,53 @@
+.div-externo-input {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 50px 3px;
+    background-color: #c6d9e9; /*indianred*/
+    border: 1.5px solid #b3c5d3; /*#ad5050*/
+    border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+    box-shadow: 5px 5px 9px 2px #00000050; 
+}
+
+/*INPUT GENERAL*/
+.div-externo-input form input, 
+.div-externo-input form button {
+    background-color: aliceblue;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 500;
+    border: 2px solid #a7a7a7; /*#6e6e6e*/
+    outline: none;
+    border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+}
+.div-externo-input form input {
+    padding: 10px 0px; /*200px*/
+    padding-left: 15px;
+    margin-right: 5px;
+    width: 70%;
+}
+    .div-externo-input form input:focus,
+    .div-externo-input form button:focus {
+        border: 2px solid black;
+    }
+.div-externo-input form button {    
+    padding: 10px 55px;
+    cursor: pointer;
+}
+    .div-externo-input form button:hover {
+        background-color: #d4e8fa;
+    }
+    .div-externo-input form button:active {
+        background-color: #acd8ff;
+    }
+
+

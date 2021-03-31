@@ -1,0 +1,17 @@
+.Tilt {
+    margin: 20px;
+    transform-style: preserve-3d;
+    background: linear-gradient(to right, #7e9aec, #9964e8);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.315);
+}
+
+.Tilt-inner {
+    transform: translateZ(20px);
+        -webkit-transform: translateZ(20px);
+        -moz-transform: translateZ(20px);
+        -ms-transform: translateZ(20px);
+        -o-transform: translateZ(20px);
+    padding-top: 10px;
+    padding-left: 10px;
+}
+

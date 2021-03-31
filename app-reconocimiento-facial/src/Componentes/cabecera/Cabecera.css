@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.div-cabecera {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+.div-cabecera a {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.div-cabecera h1 {
+    font-family: 'Righteous', cursive;
+    margin-top: 80px;
+    font-size: 2rem;
+    font-weight: 500;
+    cursor: default;
+}
