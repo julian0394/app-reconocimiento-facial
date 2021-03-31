@@ -7,3 +7,12 @@
 body {
     background: linear-gradient(to right, #7e9aec, #9964e8);
 }
+
+/* .particulas {
+    display: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+} */
